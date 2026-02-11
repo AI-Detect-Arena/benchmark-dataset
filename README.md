@@ -24,9 +24,9 @@ AI Detector Arena provides an objective, reproducible benchmark for comparing AI
 
 | Metric | Value |
 |--------|-------|
-| Total Images | ~2,050 |
-| AI-Generated | ~1,018 |
-| Real Photos | ~1,032 |
+| Total Images | 2,051 |
+| AI-Generated | 1,031 |
+| Real Photos | 1,020 |
 | AI Generators | 17 |
 | Categories | 6 |
 

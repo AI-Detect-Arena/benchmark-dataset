@@ -12,7 +12,7 @@
 
 ### Dataset Summary
 
-AI Detector Arena Benchmark is a curated dataset for evaluating AI-generated image detection tools. It contains approximately 2,050 images split evenly between AI-generated content and real photographs.
+AI Detector Arena Benchmark is a curated dataset for evaluating AI-generated image detection tools. It contains 2,051 images split evenly between AI-generated content and real photographs.
 
 The dataset is designed to provide:
 - **Balanced evaluation** — Equal representation of AI and real images
@@ -62,8 +62,8 @@ Each image in the dataset has an associated metadata record:
 
 | Split | Count | Description |
 |-------|-------|-------------|
-| AI-Generated | ~1,018 | Images from 17 AI generators |
-| Real Photos | ~1,032 | Photographs from Unsplash |
+| AI-Generated | 1,031 | Images from 17 AI generators |
+| Real Photos | 1,020 | Photographs from Unsplash |
 
 ---
 
