@@ -4,6 +4,9 @@
 
 ## Dataset Archive (v0.1)
 
+**Canonical URL:** https://aidetectarena.com/datasets/v0.1
+**CDN Mirror:** https://aidetectarena-benchmark.nyc3.cdn.digitaloceanspaces.com/datasets-archive/benchmark-v0.1.zip
+
 **File:** benchmark-v0.1.zip
 **Size:** 1.39 GiB (1,497,305,999 bytes)
 **SHA256:** `1e62844bba714c2e190792844d4169fa3119fac3c2c143dad1eb8062e20b67e4`
