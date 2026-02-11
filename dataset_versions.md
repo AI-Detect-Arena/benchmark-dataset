@@ -60,6 +60,14 @@ This document tracks all versions of the AI Detector Arena benchmark dataset.
 ### Distortions
 - None applied (original quality)
 
+### Integrity
+
+| File | Size | SHA256 |
+|------|------|--------|
+| `benchmark-v0.1.zip` | 1.39 GiB | `1e62844bba714c2e190792844d4169fa3119fac3c2c143dad1eb8062e20b67e4` |
+
+**Download:** [CDN Link](https://aidetectarena-benchmark.nyc3.cdn.digitaloceanspaces.com/datasets-archive/benchmark-v0.1.zip)
+
 ### Notes
 - Initial balanced dataset release
 - Focus on modern AI generators (late 2025 - early 2026)

@@ -1,0 +1,56 @@
+# AI Detector Arena Benchmark Dataset - Checksums
+# Generated: February 2026
+# Use these checksums to verify dataset integrity
+
+## Dataset Archive (v0.1)
+
+**File:** benchmark-v0.1.zip
+**Size:** 1.39 GiB (1,497,305,999 bytes)
+**SHA256:** `1e62844bba714c2e190792844d4169fa3119fac3c2c143dad1eb8062e20b67e4`
+
+### Verification
+
+Linux/macOS:
+```bash
+shasum -a 256 benchmark-v0.1.zip
+# Expected: 1e62844bba714c2e190792844d4169fa3119fac3c2c143dad1eb8062e20b67e4
+```
+
+Windows (PowerShell):
+```powershell
+Get-FileHash benchmark-v0.1.zip -Algorithm SHA256
+# Expected: 1E62844BBA714C2E190792844D4169FA3119FAC3C2C143DAD1EB8062E20B67E4
+```
+
+### Archive Contents
+
+```
+benchmark-v0.1/
+├── images/
+│   ├── ai/           # 1,018 AI-generated images
+│   │   ├── animal/   # 170 images
+│   │   ├── art/      # 170 images
+│   │   ├── food/     # 170 images
+│   │   ├── landscape/# 168 images
+│   │   ├── portrait/ # 170 images
+│   │   └── product/  # 170 images
+│   └── real/         # 1,020 real photographs
+│       ├── animal/   # 170 images
+│       ├── art/      # 170 images
+│       ├── food/     # 170 images
+│       ├── landscape/# 170 images
+│       ├── portrait/ # 170 images
+│       └── product/  # 170 images
+├── metadata/
+│   └── images_metadata.csv
+├── README.md
+└── LICENSE
+```
+
+### Total Counts
+
+| Type | Count |
+|------|-------|
+| AI Images | 1,018 |
+| Real Images | 1,020 |
+| **Total** | **2,038** |

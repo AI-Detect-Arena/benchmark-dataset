@@ -8,6 +8,14 @@ A standardized benchmark for evaluating AI-generated image detection tools.
 
 **Homepage:** [aidetectarena.com](https://aidetectarena.com)
 
+## Live Leaderboard
+
+**See how AI detectors perform on this benchmark:**
+
+[![Live Leaderboard](https://img.shields.io/badge/Live-Leaderboard-blue?style=for-the-badge)](https://aidetectarena.com)
+
+The leaderboard is updated in real-time as new detectors are evaluated against this dataset.
+
 ## Overview
 
 AI Detector Arena provides an objective, reproducible benchmark for comparing AI image detectors. We test detectors against a curated dataset of AI-generated and real images, measuring accuracy across different generators and content categories.
@@ -83,7 +91,7 @@ benchmark-dataset/
 If you use this benchmark in your research or evaluation, please cite:
 
 ```bibtex
-@misc{aidetectorarena2026,
+@misc{aidetectarena2026,
   title   = {AI Detector Arena Benchmark Dataset},
   author  = {AI Detector Arena},
   year    = {2026},

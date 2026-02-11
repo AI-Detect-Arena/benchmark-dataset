@@ -12,7 +12,7 @@
 
 ### Dataset Summary
 
-AI Detector Arena Benchmark is a curated dataset for evaluating AI-generated image detection tools. It contains 2,051 images split evenly between AI-generated content and real photographs.
+AI Detector Arena Benchmark is a curated dataset for evaluating AI-generated image detection tools. It contains 2,038 images split evenly between AI-generated content and real photographs.
 
 The dataset is designed to provide:
 - **Balanced evaluation** — Equal representation of AI and real images
@@ -62,7 +62,7 @@ Each image in the dataset has an associated metadata record:
 
 | Split | Count | Description |
 |-------|-------|-------------|
-| AI-Generated | 1,031 | Images from 17 AI generators |
+| AI-Generated | 1,018 | Images from 17 AI generators |
 | Real Photos | 1,020 | Photographs from Unsplash |
 
 ---
@@ -77,7 +77,7 @@ Existing AI detection benchmarks often suffer from:
 - Outdated AI models
 - Lack of versioning
 
-This dataset addresses these issues by maintaining balance, including modern generators (late 2024 - early 2025), and using semantic versioning.
+This dataset addresses these issues by maintaining balance, including modern generators (late 2025 - early 2026), and using semantic versioning.
 
 ### Source Data
 
@@ -137,6 +137,28 @@ This dataset supports the development of AI detection tools, which have applicat
 - Limited to 6 categories; specialized domains may differ
 - No social media compression artifacts
 
+### Intended Use
+
+**Primary use case:** Evaluation and benchmarking of AI-generated image detection tools.
+
+**This dataset is intended for:**
+- Comparing accuracy of different AI image detectors
+- Research on AI detection methodologies
+- Academic studies on synthetic media detection
+- Evaluating detector performance across generators and categories
+
+**This dataset is NOT intended for:**
+- Training AI image detectors (evaluation only)
+- Training AI image generators
+- Creating adversarial examples to evade detection
+- Any malicious purposes
+
+**Domain Coverage:**
+- Content types: Portrait, Landscape, Art, Food, Animal, Product
+- Generator families: Diffusion models (Flux, SD), Autoregressive (GPT Image), Hybrid architectures
+- Image quality: High-resolution, minimal compression
+- Note: Real-world deployment may encounter compressed, cropped, or filtered images not represented here
+
 ### Limitations
 
 This benchmark does **not** cover:
@@ -144,7 +166,7 @@ This benchmark does **not** cover:
 - Video or audio deepfakes
 - Images with social media compression
 - Adversarial attacks on detectors
-- Generators released after January 2025
+- Generators released after January 2026
 
 See [methodology.md](methodology.md) for full limitations.
 
@@ -166,10 +188,10 @@ AI Detector Arena team.
 ### Citation
 
 ```bibtex
-@misc{aidetectorarena2025,
+@misc{aidetectarena2026,
   title={AI Detector Arena Benchmark Dataset},
   author={AI Detector Arena},
-  year={2025},
+  year={2026},
   url={https://aidetectarena.com/benchmark-dataset},
   note={Dataset Version 0.1}
 }

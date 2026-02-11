@@ -61,11 +61,11 @@ commercial and non-commercial purposes.
 When using this dataset, please cite:
 
 ```bibtex
-@misc{aidetectorarena2025,
+@misc{aidetectarena2026,
   title={AI Detector Arena Benchmark Dataset},
   author={AI Detector Arena},
-  year={2025},
-  url={https://aidetectorarena.com/benchmark-dataset},
+  year={2026},
+  url={https://aidetectarena.com/benchmark-dataset},
   note={Dataset Version 0.1}
 }
 ```

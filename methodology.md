@@ -120,6 +120,6 @@ To reproduce benchmark results:
 
 ## References
 
-- Website: [aidetectorarena.com](https://aidetectorarena.com)
-- Dataset: [aidetectorarena.com/benchmark-dataset](https://aidetectorarena.com/benchmark-dataset)
-- Leaderboard: [aidetectorarena.com](https://aidetectorarena.com)
+- Website: [aidetectarena.com](https://aidetectarena.com)
+- Dataset: [aidetectarena.com/benchmark-dataset](https://aidetectarena.com/benchmark-dataset)
+- Leaderboard: [aidetectarena.com](https://aidetectarena.com)
