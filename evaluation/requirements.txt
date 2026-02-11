@@ -1,0 +1,14 @@
+# Requirements for AI Detector Arena Benchmark Evaluation
+# Install: pip install -r requirements.txt
+
+# No external dependencies required for basic evaluation
+# The evaluate.py script uses only Python standard library:
+# - argparse
+# - csv
+# - collections
+
+# Optional dependencies for extended analysis:
+# pandas>=2.0.0          # DataFrame analysis
+# numpy>=1.24.0          # Numerical operations
+# matplotlib>=3.7.0      # Visualization
+# scikit-learn>=1.3.0    # Additional metrics (ROC, AUC)
