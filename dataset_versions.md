@@ -6,7 +6,7 @@ This document tracks all versions of the AI Detector Arena benchmark dataset.
 
 | Version | Release Date | Total Images | AI Images | Real Images | Generators | Changes |
 |---------|--------------|--------------|-----------|-------------|------------|---------|
-| **0.1** | Feb 2025 | 2,051 | 1,031 | 1,020 | 17 | Initial release |
+| **0.1** | Feb 2026 | 2,038 | 1,018 | 1,020 | 17 | Initial release |
 
 ---
 
@@ -15,8 +15,8 @@ This document tracks all versions of the AI Detector Arena benchmark dataset.
 **Release Date:** February 2025
 
 ### Statistics
-- **Total Images:** 2,051
-- **AI-Generated:** 1,031 (50%)
+- **Total Images:** 2,038
+- **AI-Generated:** 1,018 (50%)
 - **Real Photos:** 1,020 (50%)
 - **AI Generators:** 17
 - **Categories:** 6
@@ -47,7 +47,7 @@ This document tracks all versions of the AI Detector Arena benchmark dataset.
 
 | Category | AI Count | Real Count | Total |
 |----------|----------|------------|-------|
-| Portrait | 183 | 170 | 353 |
+| Portrait | 170 | 170 | 340 |
 | Landscape | 168 | 170 | 338 |
 | Art | 170 | 170 | 340 |
 | Food | 170 | 170 | 340 |

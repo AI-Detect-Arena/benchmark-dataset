@@ -24,8 +24,8 @@ AI Detector Arena provides an objective, reproducible benchmark for comparing AI
 
 | Metric | Value |
 |--------|-------|
-| Total Images | 2,051 |
-| AI-Generated | 1,031 |
+| Total Images | 2,038 |
+| AI-Generated | 1,018 |
 | Real Photos | 1,020 |
 | AI Generators | 17 |
 | Categories | 6 |
@@ -83,17 +83,17 @@ benchmark-dataset/
 If you use this benchmark in your research or evaluation, please cite:
 
 ```bibtex
-@misc{aidetectorarena2025,
+@misc{aidetectorarena2026,
   title   = {AI Detector Arena Benchmark Dataset},
   author  = {AI Detector Arena},
-  year    = {2025},
+  year    = {2026},
   url     = {https://aidetectorarena.com/benchmark-dataset},
   note    = {Dataset Version 0.1}
 }
 ```
 
 **Plain text:**
-> AI Detector Arena. (2025). AI Detector Arena Benchmark Dataset (Version 0.1). https://aidetectorarena.com/benchmark-dataset
+> AI Detector Arena. (2026). AI Detector Arena Benchmark Dataset (Version 0.1). https://aidetectorarena.com/benchmark-dataset
 
 ## License
 

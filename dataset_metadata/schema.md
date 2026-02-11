@@ -110,13 +110,13 @@ real_animal_unsplash_042,real_animal_unsplash_042.jpg,false,,animal
 
 | Category | AI Images | Real Images | Total |
 |----------|-----------|-------------|-------|
-| portrait | 183 | 170 | 353 |
+| portrait | 170 | 170 | 340 |
 | landscape | 168 | 170 | 338 |
 | art | 170 | 170 | 340 |
 | food | 170 | 170 | 340 |
 | animal | 170 | 170 | 340 |
 | product | 170 | 170 | 340 |
-| **Total** | **1,031** | **1,020** | **2,051** |
+| **Total** | **1,018** | **1,020** | **2,038** |
 
 ## Versioning
 
