@@ -2,13 +2,13 @@
 
 ## Dataset Description
 
-**Homepage:** [aidetectorarena.com](https://aidetectorarena.com)
+**Homepage:** [aidetectarena.com](https://aidetectarena.com)
 
 **Repository:** [github.com/AI-Detect-Arena/benchmark-dataset](https://github.com/AI-Detect-Arena/benchmark-dataset)
 
-**Leaderboard:** [aidetectorarena.com](https://aidetectorarena.com)
+**Leaderboard:** [aidetectarena.com](https://aidetectarena.com)
 
-**Methodology:** [aidetectorarena.com/methodology](https://aidetectorarena.com/methodology)
+**Methodology:** [aidetectarena.com/methodology](https://aidetectarena.com/methodology)
 
 ### Dataset Summary
 
@@ -170,12 +170,12 @@ AI Detector Arena team.
   title={AI Detector Arena Benchmark Dataset},
   author={AI Detector Arena},
   year={2025},
-  url={https://aidetectorarena.com/benchmark-dataset},
+  url={https://aidetectarena.com/benchmark-dataset},
   note={Dataset Version 0.1}
 }
 ```
 
 ### Contact
 
-- Website: [aidetectorarena.com](https://aidetectorarena.com)
+- Website: [aidetectarena.com](https://aidetectarena.com)
 - GitHub: [github.com/AI-Detect-Arena](https://github.com/AI-Detect-Arena)

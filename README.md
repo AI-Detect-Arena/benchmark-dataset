@@ -6,7 +6,7 @@ A standardized benchmark for evaluating AI-generated image detection tools.
 [![License: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Dataset Version](https://img.shields.io/badge/Dataset-v0.1-green.svg)](dataset_versions.md)
 
-**Homepage:** [aidetectorarena.com](https://aidetectorarena.com)
+**Homepage:** [aidetectarena.com](https://aidetectarena.com)
 
 ## Overview
 
@@ -73,10 +73,10 @@ benchmark-dataset/
 
 | Resource | URL |
 |----------|-----|
-| **Homepage** | [aidetectorarena.com](https://aidetectorarena.com) |
-| **Leaderboard** | [aidetectorarena.com](https://aidetectorarena.com) |
-| **Dataset Details** | [aidetectorarena.com/benchmark-dataset](https://aidetectorarena.com/benchmark-dataset) |
-| **Methodology** | [aidetectorarena.com/methodology](https://aidetectorarena.com/methodology) |
+| **Homepage** | [aidetectarena.com](https://aidetectarena.com) |
+| **Leaderboard** | [aidetectarena.com](https://aidetectarena.com) |
+| **Dataset Details** | [aidetectarena.com/benchmark-dataset](https://aidetectarena.com/benchmark-dataset) |
+| **Methodology** | [aidetectarena.com/methodology](https://aidetectarena.com/methodology) |
 
 ## Citation
 
@@ -87,13 +87,13 @@ If you use this benchmark in your research or evaluation, please cite:
   title   = {AI Detector Arena Benchmark Dataset},
   author  = {AI Detector Arena},
   year    = {2026},
-  url     = {https://aidetectorarena.com/benchmark-dataset},
+  url     = {https://aidetectarena.com/benchmark-dataset},
   note    = {Dataset Version 0.1}
 }
 ```
 
 **Plain text:**
-> AI Detector Arena. (2026). AI Detector Arena Benchmark Dataset (Version 0.1). https://aidetectorarena.com/benchmark-dataset
+> AI Detector Arena. (2026). AI Detector Arena Benchmark Dataset (Version 0.1). https://aidetectarena.com/benchmark-dataset
 
 ## License
 
@@ -115,4 +115,4 @@ Open an issue or pull request to get started.
 
 ---
 
-Made with care by the [AI Detector Arena](https://aidetectorarena.com) team.
+Made with care by the [AI Detector Arena](https://aidetectarena.com) team.
