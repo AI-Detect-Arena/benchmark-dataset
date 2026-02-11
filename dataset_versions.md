@@ -12,7 +12,7 @@ This document tracks all versions of the AI Detector Arena benchmark dataset.
 
 ## Version 0.1 (Current)
 
-**Release Date:** February 2025
+**Release Date:** February 2026
 
 ### Statistics
 - **Total Images:** 2,038
@@ -62,7 +62,7 @@ This document tracks all versions of the AI Detector Arena benchmark dataset.
 
 ### Notes
 - Initial balanced dataset release
-- Focus on modern AI generators (late 2024 - early 2025)
+- Focus on modern AI generators (late 2025 - early 2026)
 - High-quality images without compression artifacts
 
 ---
