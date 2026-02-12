@@ -2,11 +2,14 @@
 
 A standardized benchmark for evaluating AI-generated image detection tools.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18620634.svg)](https://doi.org/10.5281/zenodo.18620634)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Dataset Version](https://img.shields.io/badge/Dataset-v0.1-green.svg)](dataset_versions.md)
 
 **Homepage:** [aidetectarena.com](https://aidetectarena.com)
+
+**DOI:** [10.5281/zenodo.18620634](https://doi.org/10.5281/zenodo.18620634)
 
 ## Live Leaderboard
 
@@ -96,12 +99,13 @@ If you use this benchmark in your research or evaluation, please cite:
   author  = {AI Detector Arena},
   year    = {2026},
   url     = {https://aidetectarena.com/benchmark-dataset},
+  doi     = {10.5281/zenodo.18620634},
   note    = {Dataset Version 0.1}
 }
 ```
 
 **Plain text:**
-> AI Detector Arena. (2026). AI Detector Arena Benchmark Dataset (Version 0.1). https://aidetectarena.com/benchmark-dataset
+> AI Detector Arena. (2026). AI Detector Arena Benchmark Dataset (Version 0.1). https://doi.org/10.5281/zenodo.18620634
 
 ## License
 
